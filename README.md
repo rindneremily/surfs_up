@@ -1,1 +1,9 @@
 # surfs_up
+## Overview of Analysis
+This analysis was conducted to help a potential business owner make decisions. This businessman would like to open a store that serves ice cream. Typically, this dessert is most popular in warm weather. By comparing average temperatures and precipitation in summer and winter, we can determine whether or not this store could be profitable year-round.
+## Results
+- The average temperature in June and December do not vary much. In June, the average is a few degrees higher than in December. This is an expected difference. The temperature drop in December is not large enough that I would recommend against opening an ice cream shop. If the average temperature was dropping below 70 then I would reconsider.
+- The minimum temperature in December is quite a bit lower than in June. This drop would lead me to recommend shorter business hours for his shop. Rather than staying open when the temperature is in the 50s, I would think it is best to close during those hours and save money.
+- The precipitation levels remained steady through both months. High levels of precipitation generally make the air feel warmer than it is. This is beneficial for an ice cream shop. The warmer it feels, the more customers would be inclined to get a frozen treat. 
+## Summary
+Comparing the months makes me confident in my recommendation to open the shop. With minimal change in average temperature and precipitation, the weather shouldn't affect the consumers negatively. An additional query could be for the sunrise and sunset times. By tracking these hours, the business could change their hours of operation accordingly so they do not stay open during non-profitable hours. Another query could be for the type of precipitation. Humidity may affect customers willingness to buy less than a rainstorm would. If December has rainstorms everyday, it is very unlikely that people would buy ice cream despite the high temperature.
